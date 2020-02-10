@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:support-v13:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/fe0b13cbf92aad9894c6be2169caf6b8/support-v13-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a34a62e715473ef2301dd478b244c935/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/67b0ea41bb31f1300bd726681636eb0e/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2ad9bfadafd430f8dbad1412b3cf8d16/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/3637ad7267aebf352258eb32830074ae/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2c2719b22890890f5ae6a51c577cf1e6/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/07ec705aed5324b71d72c4292188ba58/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/1334fe890717dc3473dc186f28449ae9/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/51316cf1e90ac9ba1040508849baa486/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/eef6aeb86cd4abc591f340e9ebffbc25/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/ad62f407f0f82b0a54b4d08f147faaa7/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/9e47cc7119ced64ae9076bee16f6f474/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/383ad2c48ccebde577332ae7ce906c52/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/aabad928b9dfc3bb4f99a8e919d7ca2a/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d777efb7f005f4061664eb152e4e4155/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/378cad5251b7bf9290fb2bb3c5781307/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a7cb32bf2478ccd8ed752b2b8a998b8f/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/11902811a1e20f50ecac97c485be82b1/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f993d148e999fdf956a4937ae88c6ee1/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/16e10458eb3d86dce547be2d4dce65a9/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a4cce78b48541915b29a77ed3286103c/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d2514de441a98c98e63d23342e697e1c/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/587d4b4ba2bee95fa70ebde7fdef163e/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/6649028815494b2aeabe1bc5c2405c56/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e443312ff8e9912636de42e05adc2a8/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e2b7336b65fd01a7d1759b63ce95e82/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/bde0a02c7eaeb68bbbbe9daba8b5a4d3/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/80a25cd447b6f67296c411c5c16059bb/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a9f3caa807bbac705342bf916bae7e9b/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:18:5-47
+	android:versionName
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:24:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:25:5-70
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:26:22-78
+application
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:28:5-41:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f993d148e999fdf956a4937ae88c6ee1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f993d148e999fdf956a4937ae88c6ee1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:28:18-44
+	android:theme
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:31:9-45
+activity#com.example.android.camera2video.CameraActivity
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:34:19-51
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:33:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/fe0b13cbf92aad9894c6be2169caf6b8/support-v13-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/fe0b13cbf92aad9894c6be2169caf6b8/support-v13-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a34a62e715473ef2301dd478b244c935/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a34a62e715473ef2301dd478b244c935/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/67b0ea41bb31f1300bd726681636eb0e/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/67b0ea41bb31f1300bd726681636eb0e/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2ad9bfadafd430f8dbad1412b3cf8d16/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2ad9bfadafd430f8dbad1412b3cf8d16/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/3637ad7267aebf352258eb32830074ae/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/3637ad7267aebf352258eb32830074ae/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2c2719b22890890f5ae6a51c577cf1e6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/2c2719b22890890f5ae6a51c577cf1e6/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/07ec705aed5324b71d72c4292188ba58/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/07ec705aed5324b71d72c4292188ba58/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/1334fe890717dc3473dc186f28449ae9/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/1334fe890717dc3473dc186f28449ae9/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/51316cf1e90ac9ba1040508849baa486/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/51316cf1e90ac9ba1040508849baa486/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/eef6aeb86cd4abc591f340e9ebffbc25/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/eef6aeb86cd4abc591f340e9ebffbc25/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/ad62f407f0f82b0a54b4d08f147faaa7/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/ad62f407f0f82b0a54b4d08f147faaa7/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/9e47cc7119ced64ae9076bee16f6f474/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/9e47cc7119ced64ae9076bee16f6f474/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/383ad2c48ccebde577332ae7ce906c52/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/383ad2c48ccebde577332ae7ce906c52/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/aabad928b9dfc3bb4f99a8e919d7ca2a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/aabad928b9dfc3bb4f99a8e919d7ca2a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d777efb7f005f4061664eb152e4e4155/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d777efb7f005f4061664eb152e4e4155/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/378cad5251b7bf9290fb2bb3c5781307/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/378cad5251b7bf9290fb2bb3c5781307/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a7cb32bf2478ccd8ed752b2b8a998b8f/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a7cb32bf2478ccd8ed752b2b8a998b8f/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/11902811a1e20f50ecac97c485be82b1/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/11902811a1e20f50ecac97c485be82b1/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f14724208b5bfeeef0d6bdefe649bca7/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f993d148e999fdf956a4937ae88c6ee1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/f993d148e999fdf956a4937ae88c6ee1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/16e10458eb3d86dce547be2d4dce65a9/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/16e10458eb3d86dce547be2d4dce65a9/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a4cce78b48541915b29a77ed3286103c/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a4cce78b48541915b29a77ed3286103c/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d2514de441a98c98e63d23342e697e1c/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/d2514de441a98c98e63d23342e697e1c/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/587d4b4ba2bee95fa70ebde7fdef163e/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/587d4b4ba2bee95fa70ebde7fdef163e/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/6649028815494b2aeabe1bc5c2405c56/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/6649028815494b2aeabe1bc5c2405c56/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e443312ff8e9912636de42e05adc2a8/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e443312ff8e9912636de42e05adc2a8/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e2b7336b65fd01a7d1759b63ce95e82/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/5e2b7336b65fd01a7d1759b63ce95e82/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/bde0a02c7eaeb68bbbbe9daba8b5a4d3/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/bde0a02c7eaeb68bbbbe9daba8b5a4d3/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/80a25cd447b6f67296c411c5c16059bb/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/80a25cd447b6f67296c411c5c16059bb/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a9f3caa807bbac705342bf916bae7e9b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/falconmac/.gradle/caches/transforms-2/files-2.1/a9f3caa807bbac705342bf916bae7e9b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/falconmac/AndroidStudioProjects/Camera2Video/Application/src/main/AndroidManifest.xml
